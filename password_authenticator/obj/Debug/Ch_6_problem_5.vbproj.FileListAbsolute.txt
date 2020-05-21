@@ -1,0 +1,12 @@
+C:\Users\Henri\Desktop\VisualBasic\Chapter_6\Ch_6_problem_5\bin\Debug\Ch_6_problem_5.exe.config
+C:\Users\Henri\Desktop\VisualBasic\Chapter_6\Ch_6_problem_5\bin\Debug\Ch_6_problem_5.exe
+C:\Users\Henri\Desktop\VisualBasic\Chapter_6\Ch_6_problem_5\bin\Debug\Ch_6_problem_5.pdb
+C:\Users\Henri\Desktop\VisualBasic\Chapter_6\Ch_6_problem_5\bin\Debug\Ch_6_problem_5.xml
+C:\Users\Henri\Desktop\VisualBasic\Chapter_6\Ch_6_problem_5\obj\Debug\Ch_6_problem_5.vbprojAssemblyReference.cache
+C:\Users\Henri\Desktop\VisualBasic\Chapter_6\Ch_6_problem_5\obj\Debug\Ch_6_problem_5.Form1.resources
+C:\Users\Henri\Desktop\VisualBasic\Chapter_6\Ch_6_problem_5\obj\Debug\Ch_6_problem_5.Resources.resources
+C:\Users\Henri\Desktop\VisualBasic\Chapter_6\Ch_6_problem_5\obj\Debug\Ch_6_problem_5.vbproj.GenerateResource.cache
+C:\Users\Henri\Desktop\VisualBasic\Chapter_6\Ch_6_problem_5\obj\Debug\Ch_6_problem_5.exe
+C:\Users\Henri\Desktop\VisualBasic\Chapter_6\Ch_6_problem_5\obj\Debug\Ch_6_problem_5.xml
+C:\Users\Henri\Desktop\VisualBasic\Chapter_6\Ch_6_problem_5\obj\Debug\Ch_6_problem_5.pdb
+C:\Users\Henri\Desktop\VisualBasic\Chapter_6\Ch_6_problem_5\obj\Debug\Ch_6_problem_5.vbproj.CoreCompileInputs.cache
